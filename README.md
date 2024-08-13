@@ -8,6 +8,9 @@
 
 I am junior software developer using C#, .Net CORE MVC, and Python.
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
+
 
 ## 👨‍💻 Professional Skills
 
