@@ -3,7 +3,7 @@
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
 [
-![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kaganmsl0@gmail.com) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganmuslu/)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaganmsl0@gmail.com) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganmuslu/)
 
 
 I am junior software developer using C#, .Net CORE MVC, and Python.
@@ -11,7 +11,8 @@ I am junior software developer using C#, .Net CORE MVC, and Python.
 
 ## 👨‍💻 Professional Skills
 
--  **Language:**  C#, .Net CORE MVC, Python
+-  **Language:**  C#, Python
+-  **Frameworks:**  .Net CORE, FastAPI, Flask, Django
 -  **DevOps:**  Docker, Redis
 -  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB, DynamoDB)
 
