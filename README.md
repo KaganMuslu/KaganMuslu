@@ -20,7 +20,7 @@
 
 ## ⭐️ Some of My Projects
 
-<table>
+<table clas="center">
   <tbody>
     <tr>
       <td><a href="https://github.com/KaganMuslu/NBA-Forecasting-Machine-Learning"><b>🤖🏀 NBA Forecasting / Machine Learning</b></a></td>
