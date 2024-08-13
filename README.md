@@ -14,7 +14,7 @@ I am junior software developer using C#, .Net CORE MVC, and Python.
 -  **Language:**  C#, Python
 -  **Frameworks:**  .Net CORE, FastAPI, Flask, Django
 -  **DevOps:**  Docker, Redis
--  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB, DynamoDB)
+-  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB)
 
 ## ⭐️ Some of My Projects
 
