@@ -6,7 +6,7 @@
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaganmsl0@gmail.com) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaganmuslu/)
 
 
-I am junior software developer using C#, .Net CORE MVC, and Python.
+🌱 I am a Junior Software Developer. I am passionate about technologies and love to learn new things.
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 
@@ -18,7 +18,7 @@ I am junior software developer using C#, .Net CORE MVC, and Python.
 -  **DevOps:**  Docker, Redis
 -  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB)
 
-## ⭐️ Some of My Projects
+## 🖥️ Some of My Projects
 
 <table>
   <tbody>
@@ -48,3 +48,6 @@ I am junior software developer using C#, .Net CORE MVC, and Python.
     </tr>
   </tbody>
 </table>
+
+### ✍🏻 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
