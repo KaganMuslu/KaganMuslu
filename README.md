@@ -18,7 +18,7 @@
 -  **DevOps:**  Docker, Redis
 -  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB)
 
-## 🖥️ Some of My Projects
+## ⭐️ Some of My Projects
 
 <table>
   <tbody>
