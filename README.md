@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/KaganMuslu/Cafe_App"><b>😋 Cafe App - Restaurant Management System</b></a></td>
-      <td>Cafe App is a very comprehensive system created to manage restaurants and cafes.</td>
+      <td>Cafe App is a very comprehensive system created to manage restaurants and cafes. It includes 13 different Manageable Sections and 5 different panels.</td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/KaganMuslu/Superheroes-App"><b>🦸🏻‍♂️ Superheroes App</b></a></td>
@@ -36,7 +36,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/KaganMuslu/OBS_App"><b>🏫 OBS Web App - Student Information System</b></a></td>
-      <td>This student information system project is aimed at a platform that teachers and students can use.</td>
+      <td>This student information system project is aimed at a platform that teachers and students can use. It includes separate panels for Teacher, Student and Admin.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/KaganMuslu/API_mtg_card_sets"><b>🎴 MTG Cards and Sets - REST API</b></a></td>
