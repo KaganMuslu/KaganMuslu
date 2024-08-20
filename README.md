@@ -14,7 +14,7 @@
 ## 👨‍💻 Professional Skills
 
 -  **Language:**  C#, Python
--  **Frameworks:**  .Net CORE, FastAPI, Flask, Django
+-  **Frameworks:**  .Net CORE, .Net Web API, Entity Framework, FastAPI, Flask
 -  **DevOps:**  Docker, Redis
 -  **Database:** Relational Database (SQL, MySQL) / Non-Relational Database (MongoDB)
 
